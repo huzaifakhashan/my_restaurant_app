@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406530303265",
+    "project_id": "zad-alkhair-app",
+    "storage_bucket": "zad-alkhair-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406530303265:android:d031d9d3f8e906aa43ca60",
+        "android_client_info": {
+          "package_name": "com.example.my_restaurant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXGbmwbHC07FVFCzKuZREBuKUGokErw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
