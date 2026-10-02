@@ -162,3 +162,4 @@ lib/
 ```bash
 dart run flutter_launcher_icons
 ```
+## لتحميل التطبيق: https://github.com/huzaifakhashan/my_restaurant_app/releases/tag/v1.0.0  
